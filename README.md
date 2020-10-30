@@ -47,3 +47,4 @@ $ rails server
 10/30 テストユーザー２
 * **email** : sample2@email.com
 * **password** : password
+* ssh接続へ
