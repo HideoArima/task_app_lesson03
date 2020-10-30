@@ -44,3 +44,6 @@ $ rails server
 * **password** : password
 * 
 10/25再作成
+10/30 テストユーザー２
+* **email** : sample2@email.com
+* **password** : password
